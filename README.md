@@ -9,7 +9,7 @@ The goal of this project is to showcase practical QA skills, including test plan
 
 The following features were tested:
 * User registration
-* Login / Logout
+* Login/Logout
 * Initial account setup
 * Account (wallet) management
 * Income and expense transactions
@@ -54,5 +54,7 @@ This behavior may lead to user confusion in a finance-related application
 
 ## Author
 **Yevhenii Yarmak**
+
 Junior Manual QA
+
 Computer Science student
